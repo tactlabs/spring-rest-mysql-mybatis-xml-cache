@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-rest-mysql-mybatis-xml-cache.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-rest-mysql-mybatis-xml-cache)
+
 Spring REST MySQL MyBatis XML Cache
 
 ```
